@@ -62,3 +62,8 @@ Formulários com `GET` e `POST`.
 - `formulario_post.php` – calculadora de compras (produto, preço e quantidade) com `POST`.
 - `calculadoraMedia.php` – calcula a média de duas notas de um aluno.
 - `cadastroAluno.php` – cadastro de aluno (nome, idade e curso).
+
+### `Aula_06/`
+Validação de formulários e tratamento seguro dos dados (`trim`, `filter_var` e `htmlspecialchars`).
+- `validacao.php` – cadastro de usuário (nome, e-mail e idade) com validação passo a passo de cada campo.
+- `inscricao.php` – inscrição para evento (nome, e-mail, idade, cidade e curso), com idade mínima de 16 anos e os valores digitados mantidos no formulário após o envio.
